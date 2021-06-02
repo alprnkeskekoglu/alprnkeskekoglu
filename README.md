@@ -7,7 +7,6 @@
   <code>
     <a href="https://www.linkedin.com/in/alperenkeskekoglu/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/11777590/alprnkeskekoglu" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/alprnkeskekoglu/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 
 - 🌱 I’m currently learning Flutter
